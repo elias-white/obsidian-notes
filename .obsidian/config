@@ -1,0 +1,41 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "moonstone",
+  "workspaceLayout": {
+    "id": "9d58bc058c545a87",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "61b997c11784dc71",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "Obsidian Help/How to/Format your notes.md",
+    "Obsidian Help/How to/Create notes.md",
+    "Obsidian Help/Start here.md"
+  ]
+}
