@@ -1,0 +1,1 @@
+A straw man fallacy occurs when someone takes another person’s argument or point, distorts it or exaggerates it in some kind of extreme way, and then attacks the extreme distortion, as if that is really the claim the first person is making.

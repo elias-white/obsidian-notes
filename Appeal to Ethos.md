@@ -1,4 +1,6 @@
-In [[Rhetoric]], an Appeal to Ethos occurs when the writer or speaker uses character, brand or reputation in order to support their argument. 
+In [[Rhetoric]], an Appeal to [[Ethos]] occurs when the writer or speaker uses character, brand or reputation in order to support their argument. 
+
+Some misuses if ethos can be seen in [[ Authority over evidence ]] and [[Ad hominem]].
 
 An appeal to ethos can either be [[ Situated Appeal | situated]] or [[ Invented Appeal | invented]]. 
 
