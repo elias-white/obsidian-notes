@@ -1,4 +1,4 @@
-The Five Canons of Rhetoric or Five Stages of Writing Rhetoric is the invention of the roman Philosopher, Cicero. The five canons are:
+The Five Canons of [[ Rhetoric ]] or Five Stages of Writing Rhetoric is the invention of the roman Philosopher, Cicero. The five canons are:
 
 1. Invention
 
