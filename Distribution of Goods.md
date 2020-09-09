@@ -2,6 +2,8 @@ The distribution of goods describes the distribution of material goods, rights a
 
 Political scientists are interested in the descriptive question of *how are goods currently being distributed*?
 
+[[John Rawls ]] proposed the [[Principles of Justice as Fairness]].
+
 Some additional questions:
 - On what basis should people possess property? 
 - What rights and liberties should they enjoy?

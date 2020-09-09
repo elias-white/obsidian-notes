@@ -4,5 +4,5 @@ The Veil of Ignorance describes the state of individuals undergoing the [[Origin
 #### What do we have behind the veil?
 However, behind this veil we still are still able to or have:
 - Negotiate our conception of what is good
-- All our primary goods (basic rights and liberties,  freedom of choice and movement, and social bases of self-respect (i.e. recognition by social institutions that give individuals a sense of self-worth or confidence))
+- All our [[ Rawls on Primary Goods | primary goods]] 
 - Mutual disinterest (not take interest in the individual circumstances of others)
